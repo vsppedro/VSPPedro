@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-pedropaiva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-paiva-57157814a/)](https://www.linkedin.com/in/pedro-paiva-57157814a/)
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.v.s.paiva@gmail.com)](mailto:pedro.v.s.paiva@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-pedro.v.s.paiva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.v.s.paiva@gmail.com)](mailto:pedro.v.s.paiva@gmail.com)  
 
 #### I'm a Full-Stack Developer working in João Pessoa, Brazil.
 

@@ -5,7 +5,7 @@
 
 #### I'm a Full-Stack Developer working in João Pessoa, Brazil.
 
-- 🏢 I'm currently working at **Iris Digital Health**
+- 🏢 I'm currently working at [Iris Digital Health](https://github.com/iris-digital-wealth)
 - ⚙️ I use daily: `.ruby`, `.js`, `.html`, `.css`
 - 🌱 Learning all about **Ruby On Rails, React, and AWS**
 - 🎙 Currently hosting [Hobby On Rails](http://www.hobbyonrails.com.br/).

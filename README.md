@@ -10,7 +10,3 @@
 - 🌱 Learning all about **Ruby On Rails, Stimulus, React, TDD/BDD, Design Patterns and AWS**
 - 🎙 Currently hosting [Hobby On Rails](http://www.hobbyonrails.com.br/).
 - ⚡️ Fun fact: I'm a huge fan of The Kingkiller Chronicle.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=VSPPedro&show_icons=true)

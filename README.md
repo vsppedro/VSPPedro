@@ -7,5 +7,4 @@
 
 - 🏢 I'm currently working at [Impulso](https://impulso.work/)
 - 🌱 Learning all about **Ruby, Javascript and AWS**
-- 🎙 Currently hosting [Hobby On Rails](http://www.hobbyonrails.com.br/).
 - ⚡️ Fun fact: I'm a huge fan of The Kingkiller Chronicle.

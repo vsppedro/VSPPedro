@@ -6,7 +6,7 @@
 #### I'm a Back-end Developer working in João Pessoa, Brazil. 🇧🇷
 
 - 🏢 I'm currently working at [Impulso](https://impulso.work/)
-- 🌱 I’m currently learning all about **Ruby, Algorithms and AWS**
+- 🌱 I’m currently learning all about **Ruby and JavaScript**
 - 💬 Ask me about Ruby
 - 😄 Pronouns: he/him
 - ⚡️ Fun fact: I'm a huge fan of The Kingkiller Chronicle.

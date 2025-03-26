@@ -6,6 +6,6 @@
 #### I'm a FullStack Developer working in João Pessoa, Brazil. 🇧🇷
 
 - 🏢 I'm currently working at [Local Labs](https://locallabs.com/)
-- 🌱 I’m currently learning all about **Ruby and JavaScript**
+- 🌱 I’m interested in **Ruby and JavaScript**
 - 💬 Ask me about Ruby
 - ⚡️ Fun fact: I'm a huge fan of The Kingkiller Chronicle.
